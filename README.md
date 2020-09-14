@@ -1,5 +1,5 @@
 # BDFramework.GameSharp  
-Code once，run whith all game engine. 
+Code once，run whith all game engine.   
 C#开发Unreal项目，兼容大部分Unity3d API，亦可Unity3d项目快速移植Unreal.  
 step.1  Unreal启动Mono虚拟机，执行DLL  
 step.2  C#绑定到UE4接口  （现有很多项目可以引用）  
